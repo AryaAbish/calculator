@@ -14,6 +14,7 @@ body{
     background-color: black;
     padding: 10px;
     border-radius: 25px;
+    margin: 100px;
 }
 input{
     height: 100px;  
